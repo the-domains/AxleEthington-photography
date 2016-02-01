@@ -1,4 +1,19 @@
-analytics: {}
+name: AxleEthingtonPhotography
+favicon: null
+layout_spectrum: 0.606085
+typography_spectrum: 0.901315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0D8B8'
@@ -8,11 +23,6 @@ color:
     - '#000000'
   brandStrength: 0.859695
   lightness: 0.332746
-  rhythmicContrast: 0.838548
   saturation: 0.27263
-cta: {}
-layout_spectrum: 0.606085
-name: AxleEthingtonPhotography
-opengraph: {}
+  rhythmicContrast: 0.838548
 purpose: []
-typography_spectrum: 0.901315
