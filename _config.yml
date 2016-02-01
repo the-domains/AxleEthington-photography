@@ -1,28 +1,18 @@
-name: AxleEthingtonPhotography
-favicon: null
-layout_spectrum: 0.785328664816916
-typography_spectrum: 0.42346017551608384
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8596957083791494
-  lightness: 0.3327466428745538
-  saturation: 0.27263094019144773
-  rhythmicContrast: 0.8385480465367436
+    - '#C0D8B8'
+    - '#204820'
+    - '#689050'
+    - '#4EB14E'
+    - '#000000'
+  brandStrength: 0.859695
+  lightness: 0.332746
+  rhythmicContrast: 0.838548
+  saturation: 0.27263
+cta: {}
+layout_spectrum: 0.606085
+name: AxleEthingtonPhotography
+opengraph: {}
 purpose: []
+typography_spectrum: 0.901315
